@@ -1,0 +1,11 @@
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\bin\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.deps.json
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\bin\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.runtimeconfig.json
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\bin\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.runtimeconfig.dev.json
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\bin\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.dll
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\bin\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.pdb
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\obj\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.csprojResolveAssemblyReference.cache
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\obj\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.csproj.CoreCompileInputs.cache
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\obj\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.AssemblyInfoInputs.cache
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\obj\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.AssemblyInfo.cs
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\obj\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.dll
+D:\Store\VisualStudio\2017\Project\NetCoreResponseFormat\NetCoreResponseFormat\NetCoreResponseFormat.Web\obj\Debug\netcoreapp2.0\NetCoreResponseFormat.Web.pdb
